@@ -8,10 +8,7 @@
 
 ## システム構成図
 
-<!-- ここにシステム構成図を貼り付ける -->
-<!-- 例: ![architecture](./docs/architecture.png) -->
-
-_(構成図は準備中)_
+![architecture](./docs/architecture.png)
 
 ---
 
